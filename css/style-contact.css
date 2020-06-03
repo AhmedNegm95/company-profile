@@ -1,0 +1,77 @@
+
+
+
+
+
+.contact-us h2 {
+    margin-top: 5%;
+    margin-bottom: 2%;
+    width: 100%
+}
+
+
+.contact-us .message, .contact-us .info, .submit {
+    width: 60%;
+    background-color: #F6F6F6;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 5%;
+    margin: 0 auto
+}
+
+.contact-us .message .rect, .contact-us .info .rect {
+    width: 100%;
+    background-color: #19A6DE;
+    padding-top: 1px;
+    padding-bottom: 1px
+}
+
+.contact-us .message .rect h3, .contact-us .info .rect h3 {
+    font-weight: bold;
+    color: #FFF;
+    margin-left: 4%
+}
+
+.contact-us .subject {
+    margin-left: 4%;
+    margin-right: 10%;
+    margin-top: 3%;
+    color: #3E7B97;
+    padding-bottom: 30px
+}
+
+.contact-us .subject label {
+    font-size: 20px
+}
+
+.contact-us .subject textarea {
+    height: 150px
+}
+
+
+.submit {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 1%
+}
+
+.submit button {
+    width: 180px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 24px;
+    background-color: #19A6DE;
+    color: #FFF;
+    border: none
+}
+
+
+
+
+
+
+
+
+.footer {
+    margin-top: 100px
+}

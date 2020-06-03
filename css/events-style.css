@@ -1,0 +1,87 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.event {
+    padding: 10px;
+    margin-top: 60px
+}
+
+.event .info h2 {
+    margin-top: 5px;
+    font-size: 29px
+}
+
+.event .date {
+    border: 1px solid #000;
+    text-align: center;
+    border-radius: 3px
+}
+
+.event .date div:first-child {
+    background-color: #CF171D;
+    font-weight: bold;
+    color: #FFF
+}
+
+.event .date div:last-child {
+    font-size: 28px;
+    font-weight: bold
+}
+
+.event-info h5 {
+    font-weight: bold;
+    color: #455560
+}
+
+.event-info p span {
+    font-weight: bold
+}
+
+.event-info p:nth-last-of-type(2) {
+    margin-bottom: 40px
+}
+
+
+.carousel-inner > .item > img {
+    height: 250px
+}
+
+.carousel {
+    margin-bottom: 50px
+}
+
+.event-register {
+    padding: 20px;
+    background-color: #F0F0F0;
+    border-radius: 5px
+}
+
+.event-register button {
+    width: 100%;
+    height: 60px;
+    background-color: #2E822A;
+    color: #FFF;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid #FFF;
+}
+
+.event-register h5 {
+    font-weight: bold;
+    margin-top: 20px;
+    color: #8A5560
+}
+
+.event-register hr {
+    border-top: 1px dotted #000;
+    margin-bottom: 10px
+}
+
+.event-register p:nth-of-type(3) {
+    font-size: 12px
+}
+

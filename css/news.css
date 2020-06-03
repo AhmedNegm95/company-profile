@@ -1,0 +1,21 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main-news h2 {
+    margin-top: 80px;
+    font-size: 36px
+}
+
+.heading p:last-of-type {
+    font-weight: bold
+}
+
+.carousel-inner > .item > img {
+    height: 250px
+}
+
+.main-news p:last-of-type {
+    margin-top: 50px
+}
